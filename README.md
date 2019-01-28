@@ -1,2 +1,1 @@
-# computer-vision
-CS527
+# CS527 Computer Vision
